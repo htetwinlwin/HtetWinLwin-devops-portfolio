@@ -1,3 +1,11 @@
+
+## ✅ Terraform Demo: Azure VM Provisioning
+
+This script provisions a Windows VM on Azure using Terraform.  
+It reflects my understanding of Infrastructure as Code (IaC) and cloud setup automation.
+
+
+
 # HtetWinLwin-devops-portfolio
 Hands-on DevOps demos: Terraform, Azure Monitor, PowerShell, Agile Boards
 
